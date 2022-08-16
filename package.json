@@ -1,0 +1,13 @@
+{
+  "name": "uuid-easy",
+  "version": "1.0.0",
+  "main": "UuidEasy.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "emoji-chars": "^1.0.12",
+    "uuid": "^8.3.2"
+  },
+  "scripts": {
+    "start": "node ./index.mjs"
+  }
+}
