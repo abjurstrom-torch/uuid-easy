@@ -8,6 +8,10 @@
     "uuid": "^8.3.2"
   },
   "scripts": {
-    "start": "node ./index.mjs"
+    "start": "node ./index.mjs",
+    "test": "ava"
+  },
+  "devDependencies": {
+    "ava": "^4.3.1"
   }
 }
